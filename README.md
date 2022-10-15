@@ -13,3 +13,4 @@
 | [08. Определение наиболее выгодного региона нефтедобычи](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/08.%20Oil%20production) | На основе данных геологи разведки выбрать район добычи нефти | Pandas, Scikit-learn, bootstrap |
 | [09. Исследование технологического процесса очистки золота](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/09.%20Gold%20field) | Спрогнозировать концентрацию золота при проведении процесса очистки золота | Python, Pandas, Matplotlib, Scikit-learn |
 | [10. Защита данных клиентов страховой компании](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/10.%20Clients%20data) | Разработка модели анонимизации персональных данных | Python, NumPy, Scikit-learn |
+| [11. Построение модели определения стоимости автомобиля](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/11.%20Car%20price) | Разработка системы рекомендации стоимости автомобиля на основе его описания | Python, Pandas, lightgbm |
