@@ -10,3 +10,4 @@
 | [05. Обработка фотографий покупателя](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/05.%20Age%20recognition) | Определение возраста по фотографии | Python, Keras |
 | [06. Классификаиция клиентов телеком компании](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/06.%20Clients%20classification) | На основе данных предложить клиенту тариф. | Python, Pandas, Matplotlib, Scikit-learn |
 | [07. Прогнозирование оттока клиента Банка](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/07.%20Leaving%20score) | На основе данных из банка определить клиент, который может уйти | Pandas, Matplotlib, Scikit-learn |
+| [08. Определение наиболее выгодного региона нефтедобычи](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/08.%20Oil%20production) | На основе данных геологи разведки выбрать район добычи нефти | Pandas, Scikit-learn, bootstrap |
