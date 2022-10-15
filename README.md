@@ -14,3 +14,4 @@
 | [09. Исследование технологического процесса очистки золота](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/09.%20Gold%20field) | Спрогнозировать концентрацию золота при проведении процесса очистки золота | Python, Pandas, Matplotlib, Scikit-learn |
 | [10. Защита данных клиентов страховой компании](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/10.%20Clients%20data) | Разработка модели анонимизации персональных данных | Python, NumPy, Scikit-learn |
 | [11. Построение модели определения стоимости автомобиля](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/11.%20Car%20price) | Разработка системы рекомендации стоимости автомобиля на основе его описания | Python, Pandas, lightgbm |
+| [12. Прогнозирование количества заказов такси на следующий час](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/12.%20Taxi%20orders) | Разработка системы предсказания объема заказа | Python, Pandas, Scikit-learn |
