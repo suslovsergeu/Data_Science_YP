@@ -11,3 +11,5 @@
 | [06. Классификаиция клиентов телеком компании](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/06.%20Clients%20classification) | На основе данных предложить клиенту тариф. | Python, Pandas, Matplotlib, Scikit-learn |
 | [07. Прогнозирование оттока клиента Банка](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/07.%20Leaving%20score) | На основе данных из банка определить клиент, который может уйти | Pandas, Matplotlib, Scikit-learn |
 | [08. Определение наиболее выгодного региона нефтедобычи](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/08.%20Oil%20production) | На основе данных геологи разведки выбрать район добычи нефти | Pandas, Scikit-learn, bootstrap |
+| [09. Исследование технологического процесса очистки золота](https://github.com/suslovsergeu/Yandex_Practicum/tree/main/09.%20Gold%20field) | 
+Спрогнозировать концентрацию золота при проведении процесса очистки золота | Python, Pandas, Matplotlib, Scikit-learn |
