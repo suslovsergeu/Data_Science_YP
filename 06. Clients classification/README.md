@@ -1,2 +1,5 @@
-# YandexPracticum_06_ClientsClassification
- 
+**Задачи**
+
+**Описание**
+
+**Методология**

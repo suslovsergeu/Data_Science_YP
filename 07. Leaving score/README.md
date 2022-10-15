@@ -1,2 +1,5 @@
-# YandexPracticum_07_LeaveScoring
- 
+**Задачи**
+
+**Описание**
+
+**Методология**

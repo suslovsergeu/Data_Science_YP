@@ -1,2 +1,5 @@
-# YandexPracticum_02_CreditScoring
- 
+**Задачи**
+
+**Описание**
+
+**Методология**
